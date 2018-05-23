@@ -1,0 +1,795 @@
+<images>
+  <image name="Megumi">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Megumi</source>
+    <source_other>http://myanimelist.net/character/30398/Airi_Akizuki</source_other>
+    <fullname>Airi Akizuki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Agiri">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Agiri</source>
+    <source_other>http://myanimelist.net/character/33582/Agiri_Goshiki</source_other>
+    <fullname>Agiri Goshiki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ai">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ai</source>
+    <source_other>http://myanimelist.net/character/1789/Ai_Enma</source_other>
+    <fullname>Ai Enma</fullname>
+    <align>left</align>
+  </image>
+  <image name="Akarin">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Akarin</source>
+    <source_other>http://myanimelist.net/character/35872/Akari_Akaza</source_other>
+    <fullname>Akari Akaza</fullname>
+    <align>center</align>
+  </image>
+  <image name="Akatsuki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Akatsuki</source>
+    <source_other>http://myanimelist.net/character/81369/Akatsuki</source_other>
+    <fullname>Akatsuki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Alice">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Alice</source>
+    <source_other>http://myanimelist.net/character/5582/Alice_Margatroid</source_other>
+    <fullname>Alice Margatroid</fullname>
+    <align>center</align>
+  </image>
+  <image name="Astraea">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Astraea</source>
+    <source_other>http://myanimelist.net/character/28859/Astraea</source_other>
+    <fullname>Astraea</fullname>
+    <align>right</align>
+  </image>
+  <image name="Asuha">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Asuha</source>
+    <source_other>http://myanimelist.net/character/41091/Asuha_Touhara</source_other>
+    <fullname>Asuha Touhara</fullname>
+    <align>center</align>
+  </image>
+  <image name="Asuka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Asuka</source>
+    <source_other>http://myanimelist.net/character/94/Asuka_Langley_Soryu</source_other>
+    <fullname>Asuka Langley Soryu</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ayase">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ayase</source>
+    <source_other>http://myanimelist.net/character/37302/Ayase_Aragaki</source_other>
+    <fullname>Ayase Aragaki</fullname>
+    <align>center</align>
+  </image>
+  <image name="CC">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#CC</source>
+    <source_other>http://myanimelist.net/character/1111/C.C.</source_other>
+    <fullname>C.C.</fullname>
+    <align>right</align>
+  </image>
+  <image name="Chika">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Chika</source>
+    <source_other>http://myanimelist.net/character/571/Chika_Itou</source_other>
+    <fullname>Chika Itou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Chiri">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Chiri</source>
+    <source_other>http://myanimelist.net/character/3745/Chiri_Kitsu</source_other>
+    <fullname>Chiri Kitsu</fullname>
+    <align>right</align>
+  </image>
+  <image name="Chitanda">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Chitanda</source>
+    <source_other>http://myanimelist.net/character/55133/Eru_Chitanda</source_other>
+    <fullname>Eru Chitanda</fullname>
+    <align>center</align>
+  </image>
+  <image name="Chiyo">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Chiyo</source>
+    <source_other>http://myanimelist.net/character/247/Chiyo_Mihama</source_other>
+    <fullname>Chiyo Mihama</fullname>
+    <align>center</align>
+  </image>
+  <image name="Cirno">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Cirno</source>
+    <source_other>http://myanimelist.net/character/24891/Cirno</source_other>
+    <fullname>Cirno</fullname>
+    <align>center</align>
+  </image>
+  <image name="Crona">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Crona</source>
+    <source_other>http://myanimelist.net/character/11919/Crona</source_other>
+    <fullname>Crona</fullname>
+    <align>right</align>
+  </image>
+  <image name="Demon Sisters">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Demon_Sisters</source>
+    <source_other>http://myanimelist.net/character/37861/Kneesocks_Demon, http://myanimelist.net/character/37862/Scanty_Demon</source_other>
+    <fullname>Kneesocks Demon, Scanty Demon</fullname>
+    <align>center</align>
+  </image>
+  <image name="Emi">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Emi</source>
+    <source_other>http://katawashoujo.wikia.com/wiki/Emi_Ibarazaki</source_other>
+    <fullname>Emi Ibarazaki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Etna">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Etna</source>
+    <source_other>http://myanimelist.net/character/3419/Etna</source_other>
+    <fullname>Etna</fullname>
+    <align>center</align>
+  </image>
+  <image name="Eureka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Eureka</source>
+    <source_other>http://myanimelist.net/character/1709/Eureka</source_other>
+    <fullname>Eureka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Excel">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Excel</source>
+    <source_other>http://myanimelist.net/character/1837/Excel</source_other>
+    <fullname>Excel</fullname>
+    <align>right</align>
+  </image>
+  <image name="Faye">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Faye</source>
+    <source_other>http://myanimelist.net/character/2/Faye_Valentine</source_other>
+    <fullname>Faye Valentine</fullname>
+    <align>right</align>
+  </image>
+  <image name="Felli">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Felli</source>
+    <source_other>http://myanimelist.net/character/18951/Felli_Loss</source_other>
+    <fullname>Felli Loss</fullname>
+    <align>center</align>
+  </image>
+  <image name="Flandre">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Flandre</source>
+    <source_other>http://myanimelist.net/character/38276/Flandre_Scarlet</source_other>
+    <fullname>Flandre Scarlet</fullname>
+    <align>center</align>
+  </image>
+  <image name="Fran">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Fran</source>
+    <source_other>http://myanimelist.net/character/12564/Fran_Madaraki</source_other>
+    <fullname>Fran Madaraki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Fuu">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Fuu</source>
+    <source_other>http://myanimelist.net/character/392/Fuu_Kasumi</source_other>
+    <fullname>Fuu Kasumi</fullname>
+    <align>left</align>
+  </image>
+  <image name="Galil">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Galil</source>
+    <source_other>http://myanimelist.net/character/62469/Galil_AR</source_other>
+    <fullname>Galil AR</fullname>
+    <align>center</align>
+  </image>
+  <image name="Hajime Ichinose">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Hajime_Ichinose</source>
+    <source_other>http://myanimelist.net/character/85153/Ichinose_Hajime</source_other>
+    <fullname>Hajime Ichinose</fullname>
+    <align>center</align>
+  </image>
+  <image name="Hakase">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Hakase</source>
+    <source_other>http://myanimelist.net/character/41055/Shinonome_Hakase</source_other>
+    <fullname>Hakase Shinonome</fullname>
+    <align>center</align>
+  </image>
+  <image name="Hanako">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Hanako</source>
+    <source_other>http://katawashoujo.wikia.com/wiki/Hanako_Ikezawa</source_other>
+    <fullname>Hanako Ikezawa</fullname>
+    <align>center</align>
+  </image>
+  <image name="Haruhi">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Haruhi</source>
+    <source_other>http://myanimelist.net/character/251/Haruhi_Suzumiya</source_other>
+    <fullname>Haruhi Suzumiya</fullname>
+    <align>right</align>
+  </image>
+  <image name="Haruhi Fujioka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Haruhi_Fujioka</source>
+    <source_other>http://myanimelist.net/character/18/Haruhi_Fujioka</source_other>
+    <fullname>Haruhi Fujioka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Haruko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Haruko</source>
+    <source_other>http://myanimelist.net/character/627/Haruko_Haruhara</source_other>
+    <fullname>Haruko Haruhara</fullname>
+    <align>left</align>
+  </image>
+  <image name="Hitoha">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Hitoha</source>
+    <source_other>http://myanimelist.net/character/31765/Hitoha_Marui</source_other>
+    <fullname>Hitoha Marui</fullname>
+    <align>center</align>
+  </image>
+  <image name="Holo">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Holo</source>
+    <source_other>http://myanimelist.net/character/7373/Holo</source_other>
+    <fullname>Holo "Wisewolf of Yoitsu"</fullname>
+    <align>right</align>
+  </image>
+  <image name="Homura">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Homura</source>
+    <source_other>http://myanimelist.net/character/38005/Homura_Akemi</source_other>
+    <fullname>Homura Akemi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Hyatt">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Hyatt</source>
+    <source_other>http://myanimelist.net/character/1838/Hyatt</source_other>
+    <fullname>Hyatt</fullname>
+    <align>right</align>
+  </image>
+  <image name="Ibara">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ibara</source>
+    <source_other>http://myanimelist.net/character/55137/Mayaka_Ibara</source_other>
+    <fullname>Mayaka Ibara</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ika">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ika</source>
+    <source_other>http://myanimelist.net/character/20512/Ika_Musume</source_other>
+    <fullname>Ika Musume</fullname>
+    <align>left</align>
+  </image>
+  <image name="Kagami">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kagami</source>
+    <source_other>http://myanimelist.net/character/2171/Kagami_Hiiragi</source_other>
+    <fullname>Kagami Hiiragi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kanade">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kanade</source>
+    <source_other>http://myanimelist.net/character/22369/Kanade_Tachibana</source_other>
+    <fullname>Kanade Tachibana</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kanoe">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kanoe</source>
+    <source_other>http://myanimelist.net/character/30273/Yuuko_Kanoe</source_other>
+    <fullname>Yuuko Kanoe</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kaori">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kaori</source>
+    <source_other>http://myanimelist.net/character/2884/Kaori</source_other>
+    <fullname>Kaori</fullname>
+    <align>left</align>
+  </image>
+  <image name="Karen">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Karen</source>
+    <source_other>http://myanimelist.net/character/50223/Karen_Kujou</source_other>
+    <fullname>Karen Kujou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kasukabe">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kasukabe</source>
+    <source_other>http://myanimelist.net/character/69439/You_Kasukabe</source_other>
+    <fullname>You Kasukabe</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kate">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kate</source>
+    <source_other>http://myanimelist.net/character/6823/Kate</source_other>
+    <fullname>Kate</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kirino">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kirino</source>
+    <source_other>http://myanimelist.net/character/24544/Kirino_Kousaka</source_other>
+    <fullname>Kirino Kousaka</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kirisame Marisa">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kirisame_Marisa</source>
+    <source_other>http://myanimelist.net/character/5458/Kirisame_Marisa</source_other>
+    <fullname>Kirisame Marisa</fullname>
+    <align>right</align>
+  </image>
+  <image name="Konata">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Konata</source>
+    <source_other>http://myanimelist.net/character/2169/Konata_Izumi</source_other>
+    <fullname>Konata Izumi</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kurisu">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kurisu</source>
+    <source_other>http://myanimelist.net/character/34470/Kurisu_Makise</source_other>
+    <fullname>Kurisu Makise</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kuroko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kuroko</source>
+    <source_other>http://myanimelist.net/character/17017/Kuroko_Shirai</source_other>
+    <fullname>Kuroko Shirai</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kyouka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kyouka</source>
+    <source_other>http://myanimelist.net/character/11704/Kyouka_Midarezaki</source_other>
+    <fullname>Kyouka Midarezaki</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kyouko Sakura">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kyouko_Sakura</source>
+    <source_other>http://myanimelist.net/character/40006/Kyouko_Sakura</source_other>
+    <fullname>Kyouko Sakura</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kyouko Toshinou">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kyouko_Toshinou</source>
+    <source_other>http://myanimelist.net/character/35871/Kyouko_Toshinou</source_other>
+    <fullname>Kyouko Toshinou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kyubey">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Kyubey</source>
+    <source_other>http://myanimelist.net/character/38566/Kyuubey</source_other>
+    <fullname>Kyuubey </fullname>
+    <align>center</align>
+  </image>
+  <image name="Lain (still)">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lain</source>
+    <source_other>http://myanimelist.net/character/2219/Lain_Iwakura</source_other>
+    <fullname>Lain Iwakura</fullname>
+    <align>center</align>
+  </image>
+  <image name="Lain">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lain</source>
+    <source_other>http://myanimelist.net/character/2219/Lain_Iwakura</source_other>
+    <fullname>Lain Iwakura</fullname>
+    <align>left</align>
+    <frameDuration>83</frameDuration>
+  </image>
+  <image name="Lala-Ru">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lala-Ru</source>
+    <source_other>http://myanimelist.net/character/1664/Lala-Ru</source_other>
+    <fullname>Lala-Ru</fullname>
+    <align>center</align>
+  </image>
+  <image name="Lilly">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lilly</source>
+    <source_other>http://katawashoujo.wikia.com/wiki/Lilly_Satou</source_other>
+    <fullname>Lilly Satou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Louise">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Louiseouise</source>
+    <source_other>http://myanimelist.net/character/136/Louise_Fran%C3%A7oise_Le_Blanc_de_La_Valli%C3%A8re</source_other>
+    <fullname>Louise Françoise Le Blanc de La Vallière</fullname>
+    <align>center</align>
+  </image>
+  <image name="Lucchini">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lucchini</source>
+    <source_other>http://myanimelist.net/character/7632/Francesca_Lucchini</source_other>
+    <fullname>Francesca Lucchini</fullname>
+    <align>left</align>
+  </image>
+  <image name="Lucy">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Lucy</source>
+    <source_other>http://myanimelist.net/character/738/Lucy</source_other>
+    <fullname>Lucy </fullname>
+    <align>left</align>
+  </image>
+  <image name="Madotsuki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Madotsuki</source>
+    <source_other>http://myanimelist.net/character/84705/Madotsuki</source_other>
+    <fullname>Madotsuki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Mai">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mai</source>
+    <source_other>http://myanimelist.net/character/10421/Mai_Minakami</source_other>
+    <fullname>Mai Minakami</fullname>
+    <align>right</align>
+  </image>
+  <image name="Maka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Maka</source>
+    <source_other>http://myanimelist.net/character/8439/Maka_Albarn</source_other>
+    <fullname>Maka Albarn</fullname>
+    <align>right</align>
+  </image>
+  <image name="Makimaki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Makimaki</source>
+    <source_other>http://myanimelist.net/character/42720/Makina_Sakamaki</source_other>
+    <fullname>Makina Sakamaki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Makoto">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Makoto</source>
+    <source_other>http://myanimelist.net/character/3987/Makoto_Kikuchi</source_other>
+    <fullname>Makoto Kikuchi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Mami">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mami</source>
+    <source_other>http://myanimelist.net/character/38194/Mami_Tomoe</source_other>
+    <fullname>Mami Tomoe</fullname>
+    <align>right</align>
+  </image>
+  <image name="Mao">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mao</source>
+    <source_other>http://myanimelist.net/character/74079/Mao_Amatsuka</source_other>
+    <fullname>Mao Amatsuka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Mary">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mary</source>
+    <source_other>http://ibrpg.wikia.com/wiki/Mary</source_other>
+    <fullname>Mary</fullname>
+    <align>right</align>
+  </image>
+  <image name="Mashiro">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mashiro</source>
+    <source_other>http://myanimelist.net/character/91971/Mashiro_Mitsumine</source_other>
+    <fullname>Mashiro Mitsumine</fullname>
+    <align>center</align>
+  </image>
+  <image name="Mayoi">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mayoi</source>
+    <source_other>http://myanimelist.net/character/22052/Mayoi_Hachikuji</source_other>
+    <fullname>Mayoi Hachikuji</fullname>
+    <align>left</align>
+  </image>
+  <image name="Mayuri">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mayuri</source>
+    <source_other>http://myanimelist.net/character/35253/Mayuri_Shiina</source_other>
+    <fullname>Mayuri Shiina</fullname>
+    <align>center</align>
+  </image>
+  <image name="Melfina">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Melfina</source>
+    <source_other>http://myanimelist.net/character/1014/Melfina</source_other>
+    <fullname>Melfina </fullname>
+    <align>left</align>
+  </image>
+  <image name="Mey-Rin">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mey-Rin</source>
+    <source_other>http://myanimelist.net/character/14952/Mey-Rin</source_other>
+    <fullname>Mey-Rin </fullname>
+    <align>left</align>
+  </image>
+  <image name="Miho">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Miho</source>
+    <source_other>http://myanimelist.net/character/62939/Miho_Nishizumi</source_other>
+    <fullname>Miho Nishizumi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Miku">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Miku</source>
+    <source_other>http://myanimelist.net/character/7156/Miku_Hatsune</source_other>
+    <fullname>Miku Hatsune</fullname>
+    <align>right</align>
+  </image>
+  <image name="Mio">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mio</source>
+    <source_other>http://myanimelist.net/character/19566/Mio_Akiyama</source_other>
+    <fullname>Mio Akiyama</fullname>
+    <align>right</align>
+  </image>
+  <image name="Mio Naganohara">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mio_Naganohara</source>
+    <source_other>http://myanimelist.net/character/40081/Mio_Naganohara</source_other>
+    <fullname>Mio Naganohara</fullname>
+    <align>right</align>
+  </image>
+  <image name="Mirai">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mirai</source>
+    <source_other>http://myanimelist.net/character/81751/Mirai_Kuriyama</source_other>
+    <fullname>Mirai Kuriyama</fullname>
+    <align>center</align>
+  </image>
+  <image name="Misaka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Misaka</source>
+    <source_other>http://myanimelist.net/character/13701/</source_other>
+    <fullname>Mikoto Misaka</fullname>
+    <align>left</align>
+  </image>
+  <image name="Misaki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Misaki</source>
+    <source_other>http://myanimelist.net/character/2552/Misaki_Nakahara</source_other>
+    <fullname>Misaki Nakahara</fullname>
+    <align>center</align>
+  </image>
+  <image name="Miu">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Miu</source>
+    <source_other>http://myanimelist.net/character/570/Miu_Matsuoka</source_other>
+    <fullname>Miu Matsuoka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Miyako">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Miyako</source>
+    <source_other>http://myanimelist.net/character/2627/Miyako</source_other>
+    <fullname>Miyako </fullname>
+    <align>center</align>
+  </image>
+  <image name="Mizuki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Mizuki</source>
+    <source_other>http://myanimelist.net/character/27363/Mizuki_Himeji</source_other>
+    <fullname>Mizuki Himeji</fullname>
+    <align>center</align>
+  </image>
+  <image name="Momo">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Momo</source>
+    <source_other>http://myanimelist.net/character/17364/Deviluke_Momo_Velia</source_other>
+    <fullname>Momo Belia Deviluke</fullname>
+    <align>center</align>
+  </image>
+  <image name="Monoko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Monoko</source>
+    <source_other>http://yumenikki.wikia.com/wiki/Monoko</source_other>
+    <fullname>Monoko</fullname>
+    <align>left</align>
+  </image>
+  <image name="Morgiana">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Morgiana</source>
+    <source_other>http://myanimelist.net/character/43121/Morgiana</source_other>
+    <fullname>Morgiana </fullname>
+    <align>left</align>
+  </image>
+  <image name="Motoko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Motoko</source>
+    <source_other>http://myanimelist.net/character/1795/Motoko_Kusanagi</source_other>
+    <fullname>Motoko "Major" Kusanagi</fullname>
+    <align>right</align>
+  </image>
+  <image name="Nano">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Nano</source>
+    <source_other>http://myanimelist.net/character/10422/Nano_Shinonome</source_other>
+    <fullname>Nano Shinonome</fullname>
+    <align>center</align>
+  </image>
+  <image name="Nee-san">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Nee-san</source>
+    <source_other>http://myanimelist.net/character/42719/Iroe_Genma</source_other>
+    <fullname>Iroe Genma</fullname>
+    <align>center</align>
+  </image>
+  <image name="Noel">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Noel</source>
+    <source_other>http://myanimelist.net/character/24493/No%C3%ABl_Kannagi</source_other>
+    <fullname>Noël Kannagi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Nymph">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Nymph</source>
+    <source_other>http://myanimelist.net/character/23496/Nymph</source_other>
+    <fullname>Nymph </fullname>
+    <align>center</align>
+  </image>
+  <image name="Onihime">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Onihime</source>
+    <source_other>http://myanimelist.net/character/17245/Onizuka_Hime</source_other>
+    <fullname>Hime "Onihime" Onizuka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Osaka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Osaka</source>
+    <source_other>http://myanimelist.net/character/183/Ayumu_Kasuga</source_other>
+    <fullname>Ayumu "Osaka" Kasuga</fullname>
+    <align>center</align>
+  </image>
+  <image name="Popura">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Popura</source>
+    <source_other>http://myanimelist.net/character/24417/Popura_Taneshima</source_other>
+    <fullname>Popura Taneshima</fullname>
+    <align>center</align>
+  </image>
+  <image name="Rei">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Rei</source>
+    <source_other>http://myanimelist.net/character/86/Rei_Ayanami</source_other>
+    <fullname>Rei Ayanami</fullname>
+    <align>center</align>
+  </image>
+  <image name="Renge">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Renge</source>
+    <source_other>http://myanimelist.net/character/54151/Renge_Miyauchi</source_other>
+    <fullname>Renge Miyauchi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Rika">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Rika</source>
+    <source_other>http://myanimelist.net/character/1534/Furude_Rika</source_other>
+    <fullname>Rika Furude</fullname>
+    <align>left</align>
+  </image>
+  <image name="Rikka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Rikka</source>
+    <source_other>http://myanimelist.net/character/65865/Rikka_Takanashi</source_other>
+    <fullname>Rikka Takanashi</fullname>
+    <align>center</align>
+  </image>
+<!--   <image name="Riko"> -->
+<!--     <source>http://0x40Hues.blogspot.com/Sources/Defaults#Riko</source> -->
+<!--     <source_other>http://myanimelist.net/character/8041/Riko_Suminoe</source_other> -->
+<!--     <fullname>Riko Suminoe</fullname> -->
+<!--     <align>right</align> -->
+<!--   </image> -->
+  <image name="Rin">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Rin</source>
+    <source_other>http://myanimelist.net/character/498/Rin_Tohsaka</source_other>
+    <fullname>Rin Tohsaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Rin Tezuka">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Rin_Tezuka</source>
+    <source_other>http://katawashoujo.wikia.com/wiki/Rin_Tezuka</source_other>
+    <fullname>Rin Tezuka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ritsu">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ritsu</source>
+    <source_other>http://myanimelist.net/character/19567/Ritsu_Tainaka</source_other>
+    <fullname>Ritsu Tainaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ruri">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ruri</source>
+    <source_other>http://myanimelist.net/character/31008/Ruri_Gokou</source_other>
+    <fullname>Ruri Gokou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Ryuuko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Ryuuko</source>
+    <source_other>http://myanimelist.net/character/83797/Ryuuko_Matoi</source_other>
+    <fullname>Ryuuko Matoi</fullname>
+    <align>right</align>
+  </image>
+  <image name="Sako">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Sako</source>
+    <source_other>http://myanimelist.net/character/62467/SAKO_RK95</source_other>
+    <fullname>SAKO RK95</fullname>
+    <align>right</align>
+  </image>
+  <image name="Sakura">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Sakura</source>
+    <source_other>http://myanimelist.net/character/2671/Sakura_Kinomoto</source_other>
+    <fullname>Sakura Kinomoto</fullname>
+    <align>center</align>
+  </image>
+  <image name="Sakurako">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Sakurako</source>
+    <source_other>http://myanimelist.net/character/35878/Sakurako_Ohmuro</source_other>
+    <fullname>Sakurako Ohmuro</fullname>
+    <align>center</align>
+  </image>
+  <image name="Sanae">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Sanae</source>
+    <source_other>http://myanimelist.net/character/67215/Sanae_Dekomori</source_other>
+    <fullname>Sanae Dekomori</fullname>
+    <align>left</align>
+  </image>
+  <image name="Senjougahara">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Senjougahara</source>
+    <source_other>http://myanimelist.net/character/22037/Hitagi_Senjougahara</source_other>
+    <fullname>Hitagi Senjougahara</fullname>
+    <align>right</align>
+  </image>
+  <image name="Shiina">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Shiina</source>
+    <source_other>http://myanimelist.net/character/61371/Shiina_Mashiro</source_other>
+    <fullname>Mashiro Shiina</fullname>
+    <align>center</align>
+  </image>
+  <image name="Shinobu">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Shinobu</source>
+    <source_other>http://myanimelist.net/character/23602/Shinobu_Oshino</source_other>
+    <fullname>Shinobu Oshino</fullname>
+    <align>center</align>
+  </image>
+  <image name="Sonya">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Sonya</source>
+    <source_other>http://myanimelist.net/character/32769/Sonya</source_other>
+    <fullname>Sonya</fullname>
+    <align>center</align>
+  </image>
+  <image name="Stocking">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Stocking</source>
+    <source_other>http://myanimelist.net/character/32801/Stocking_Anarchy</source_other>
+    <fullname>Stocking Anarchy</fullname>
+    <align>center</align>
+  </image>
+  <image name="Suiseiseki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Suiseiseki</source>
+    <source_other>http://myanimelist.net/character/1105/Suiseiseki</source_other>
+    <fullname>Suiseiseki</fullname>
+    <align>left</align>
+  </image>
+  <image name="Taiga">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Taiga</source>
+    <source_other>http://myanimelist.net/character/12064/Taiga_Aisaka</source_other>
+    <fullname>Taiga Aisaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Tomoko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Tomoko</source>
+    <source_other>http://myanimelist.net/character/50057/Tomoko_Kuroki</source_other>
+    <fullname>Tomoko Kuroki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Tsumiki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Tsumiki</source>
+    <source_other>http://myanimelist.net/character/55839/Tsumiki_Miniwa</source_other>
+    <fullname>Tsumiki Miniwa</fullname>
+    <align>center</align>
+  </image>
+  <image name="Urotsuki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Urotsuki</source>
+    <source_other>http://yume2kki.wikia.com/wiki/Urotsuki</source_other>
+    <fullname>Urotsuki</fullname>
+    <align>center</align>
+  </image>
+  <image name="Winry">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Winry</source>
+    <source_other>http://myanimelist.net/character/63/Winry_Rockbell</source_other>
+    <fullname>Winry Rockbell</fullname>
+    <align>right</align>
+  </image>
+  <image name="Yasuna">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yasuna</source>
+    <source_other>http://myanimelist.net/character/33584/Yasuna_Oribe</source_other>
+    <fullname>Yasuna Oribe</fullname>
+    <align>left</align>
+  </image>
+  <image name="Yin">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yin</source>
+    <source_other>http://myanimelist.net/character/2163/Yin</source_other>
+    <fullname>Yin</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yoko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yoko</source>
+    <source_other>http://myanimelist.net/character/2063/Yoko_Littner</source_other>
+    <fullname>Yoko Littner</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yotsuba">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yotsuba</source>
+    <source_other>http://myanimelist.net/character/3568/Yotsuba_Koiwai</source_other>
+    <fullname>Yotsuba Koiwai</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yui">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yui</source>
+    <source_other>http://myanimelist.net/character/19565/Yui_Hirasawa</source_other>
+    <fullname>Yui Hirasawa</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yukari">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yukari</source>
+    <source_other>http://myanimelist.net/character/76236/Yukari_Hinata</source_other>
+    <fullname>Yukari Hinata</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yuki">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yuki</source>
+    <source_other>http://myanimelist.net/character/249/Yuki_Nagato</source_other>
+    <fullname>Yuki Nagato</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yuno">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yuno</source>
+    <source_other>http://myanimelist.net/character/4963/Gasai_Yuno</source_other>
+    <fullname>Yuno Gasai</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yunocchi">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yunocchi</source>
+    <source_other>http://myanimelist.net/character/2528/Yuno</source_other>
+    <fullname>Yuno</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yuuko">
+    <source>http://0x40Hues.blogspot.com/Sources/Defaults#Yuuko</source>
+    <source_other>http://myanimelist.net/character/10418/Yuuko_Aioi</source_other>
+    <fullname>Yuuko Aioi</fullname>
+    <align>center</align>
+  </image>
+</images>
