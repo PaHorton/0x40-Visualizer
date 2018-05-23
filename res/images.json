@@ -1,0 +1,1042 @@
+{
+    "Agiri": {
+        "align": "center",
+        "file_name": "Agiri",
+        "file_type": "img",
+        "full_name": "Agiri Goshiki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/33582/Agiri_Goshiki"
+    },
+    "Ai": {
+        "align": "left",
+        "file_name": "Ai",
+        "file_type": "img",
+        "full_name": "Ai Enma",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1789/Ai_Enma"
+    },
+    "Akarin": {
+        "align": "center",
+        "file_name": "Akarin",
+        "file_type": "img",
+        "full_name": "Akari Akaza",
+        "package": "base",
+        "source": "http://myanimelist.net/character/35872/Akari_Akaza"
+    },
+    "Akatsuki": {
+        "align": "center",
+        "file_name": "Akatsuki",
+        "file_type": "img",
+        "full_name": "Akatsuki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/81369/Akatsuki"
+    },
+    "Alice": {
+        "align": "center",
+        "file_name": "Alice",
+        "file_type": "img",
+        "full_name": "Alice Margatroid",
+        "package": "base",
+        "source": "http://myanimelist.net/character/5582/Alice_Margatroid"
+    },
+    "Astraea": {
+        "align": "right",
+        "file_name": "Astraea",
+        "file_type": "img",
+        "full_name": "Astraea",
+        "package": "base",
+        "source": "http://myanimelist.net/character/28859/Astraea"
+    },
+    "Asuha": {
+        "align": "center",
+        "file_name": "Asuha",
+        "file_type": "img",
+        "full_name": "Asuha Touhara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/41091/Asuha_Touhara"
+    },
+    "Asuka": {
+        "align": "center",
+        "file_name": "Asuka",
+        "file_type": "img",
+        "full_name": "Asuka Langley Soryu",
+        "package": "base",
+        "source": "http://myanimelist.net/character/94/Asuka_Langley_Soryu"
+    },
+    "Ayase": {
+        "align": "center",
+        "file_name": "Ayase",
+        "file_type": "img",
+        "full_name": "Ayase Aragaki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/37302/Ayase_Aragaki"
+    },
+    "CC": {
+        "align": "right",
+        "file_name": "CC",
+        "file_type": "img",
+        "full_name": "C.C.",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1111/C.C."
+    },
+    "Chika": {
+        "align": "center",
+        "file_name": "Chika",
+        "file_type": "img",
+        "full_name": "Chika Itou",
+        "package": "base",
+        "source": "http://myanimelist.net/character/571/Chika_Itou"
+    },
+    "Chiri": {
+        "align": "right",
+        "file_name": "Chiri",
+        "file_type": "img",
+        "full_name": "Chiri Kitsu",
+        "package": "base",
+        "source": "http://myanimelist.net/character/3745/Chiri_Kitsu"
+    },
+    "Chitanda": {
+        "align": "center",
+        "file_name": "Chitanda",
+        "file_type": "img",
+        "full_name": "Eru Chitanda",
+        "package": "base",
+        "source": "http://myanimelist.net/character/55133/Eru_Chitanda"
+    },
+    "Chiyo": {
+        "align": "center",
+        "file_name": "Chiyo",
+        "file_type": "img",
+        "full_name": "Chiyo Mihama",
+        "package": "base",
+        "source": "http://myanimelist.net/character/247/Chiyo_Mihama"
+    },
+    "Cirno": {
+        "align": "center",
+        "file_name": "Cirno",
+        "file_type": "img",
+        "full_name": "Cirno",
+        "package": "base",
+        "source": "http://myanimelist.net/character/24891/Cirno"
+    },
+    "Crona": {
+        "align": "right",
+        "file_name": "Crona",
+        "file_type": "img",
+        "full_name": "Crona",
+        "package": "base",
+        "source": "http://myanimelist.net/character/11919/Crona"
+    },
+    "Demon Sisters": {
+        "align": "center",
+        "file_name": "Demon Sisters",
+        "file_type": "img",
+        "full_name": "Kneesocks Demon, Scanty Demon",
+        "package": "base",
+        "source": "http://myanimelist.net/character/37861/Kneesocks_Demon, http://myanimelist.net/character/37862/Scanty_Demon"
+    },
+    "Emi": {
+        "align": "center",
+        "file_name": "Emi",
+        "file_type": "img",
+        "full_name": "Emi Ibarazaki",
+        "package": "base",
+        "source": "http://katawashoujo.wikia.com/wiki/Emi_Ibarazaki"
+    },
+    "Etna": {
+        "align": "center",
+        "file_name": "Etna",
+        "file_type": "img",
+        "full_name": "Etna",
+        "package": "base",
+        "source": "http://myanimelist.net/character/3419/Etna"
+    },
+    "Eureka": {
+        "align": "center",
+        "file_name": "Eureka",
+        "file_type": "img",
+        "full_name": "Eureka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1709/Eureka"
+    },
+    "Excel": {
+        "align": "right",
+        "file_name": "Excel",
+        "file_type": "img",
+        "full_name": "Excel",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1837/Excel"
+    },
+    "Faye": {
+        "align": "right",
+        "file_name": "Faye",
+        "file_type": "img",
+        "full_name": "Faye Valentine",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2/Faye_Valentine"
+    },
+    "Felli": {
+        "align": "center",
+        "file_name": "Felli",
+        "file_type": "img",
+        "full_name": "Felli Loss",
+        "package": "base",
+        "source": "http://myanimelist.net/character/18951/Felli_Loss"
+    },
+    "Flandre": {
+        "align": "center",
+        "file_name": "Flandre",
+        "file_type": "img",
+        "full_name": "Flandre Scarlet",
+        "package": "base",
+        "source": "http://myanimelist.net/character/38276/Flandre_Scarlet"
+    },
+    "Fran": {
+        "align": "center",
+        "file_name": "Fran",
+        "file_type": "img",
+        "full_name": "Fran Madaraki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/12564/Fran_Madaraki"
+    },
+    "Fuu": {
+        "align": "left",
+        "file_name": "Fuu",
+        "file_type": "img",
+        "full_name": "Fuu Kasumi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/392/Fuu_Kasumi"
+    },
+    "Galil": {
+        "align": "center",
+        "file_name": "Galil",
+        "file_type": "img",
+        "full_name": "Galil AR",
+        "package": "base",
+        "source": "http://myanimelist.net/character/62469/Galil_AR"
+    },
+    "Hajime Ichinose": {
+        "align": "center",
+        "file_name": "Hajime Ichinose",
+        "file_type": "img",
+        "full_name": "Hajime Ichinose",
+        "package": "base",
+        "source": "http://myanimelist.net/character/85153/Ichinose_Hajime"
+    },
+    "Hakase": {
+        "align": "center",
+        "file_name": "Hakase",
+        "file_type": "img",
+        "full_name": "Hakase Shinonome",
+        "package": "base",
+        "source": "http://myanimelist.net/character/41055/Shinonome_Hakase"
+    },
+    "Hanako": {
+        "align": "center",
+        "file_name": "Hanako",
+        "file_type": "img",
+        "full_name": "Hanako Ikezawa",
+        "package": "base",
+        "source": "http://katawashoujo.wikia.com/wiki/Hanako_Ikezawa"
+    },
+    "Haruhi": {
+        "align": "right",
+        "file_name": "Haruhi",
+        "file_type": "img",
+        "full_name": "Haruhi Suzumiya",
+        "package": "base",
+        "source": "http://myanimelist.net/character/251/Haruhi_Suzumiya"
+    },
+    "Haruhi Fujioka": {
+        "align": "center",
+        "file_name": "Haruhi Fujioka",
+        "file_type": "img",
+        "full_name": "Haruhi Fujioka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/18/Haruhi_Fujioka"
+    },
+    "Haruko": {
+        "align": "left",
+        "file_name": "Haruko",
+        "file_type": "img",
+        "full_name": "Haruko Haruhara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/627/Haruko_Haruhara"
+    },
+    "Hitoha": {
+        "align": "center",
+        "file_name": "Hitoha",
+        "file_type": "img",
+        "full_name": "Hitoha Marui",
+        "package": "base",
+        "source": "http://myanimelist.net/character/31765/Hitoha_Marui"
+    },
+    "Holo": {
+        "align": "right",
+        "file_name": "Holo",
+        "file_type": "img",
+        "full_name": "Holo \"Wisewolf of Yoitsu\"",
+        "package": "base",
+        "source": "http://myanimelist.net/character/7373/Holo"
+    },
+    "Homura": {
+        "align": "center",
+        "file_name": "Homura",
+        "file_type": "img",
+        "full_name": "Homura Akemi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/38005/Homura_Akemi"
+    },
+    "Hyatt": {
+        "align": "right",
+        "file_name": "Hyatt",
+        "file_type": "img",
+        "full_name": "Hyatt",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1838/Hyatt"
+    },
+    "Ibara": {
+        "align": "center",
+        "file_name": "Ibara",
+        "file_type": "img",
+        "full_name": "Mayaka Ibara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/55137/Mayaka_Ibara"
+    },
+    "Ika": {
+        "align": "left",
+        "file_name": "Ika",
+        "file_type": "img",
+        "full_name": "Ika Musume",
+        "package": "base",
+        "source": "http://myanimelist.net/character/20512/Ika_Musume"
+    },
+    "Kagami": {
+        "align": "center",
+        "file_name": "Kagami",
+        "file_type": "img",
+        "full_name": "Kagami Hiiragi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2171/Kagami_Hiiragi"
+    },
+    "Kanade": {
+        "align": "right",
+        "file_name": "Kanade",
+        "file_type": "img",
+        "full_name": "Kanade Tachibana",
+        "package": "base",
+        "source": "http://myanimelist.net/character/22369/Kanade_Tachibana"
+    },
+    "Kanoe": {
+        "align": "right",
+        "file_name": "Kanoe",
+        "file_type": "img",
+        "full_name": "Yuuko Kanoe",
+        "package": "base",
+        "source": "http://myanimelist.net/character/30273/Yuuko_Kanoe"
+    },
+    "Kaori": {
+        "align": "left",
+        "file_name": "Kaori",
+        "file_type": "img",
+        "full_name": "Kaori",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2884/Kaori"
+    },
+    "Karen": {
+        "align": "center",
+        "file_name": "Karen",
+        "file_type": "img",
+        "full_name": "Karen Kujou",
+        "package": "base",
+        "source": "http://myanimelist.net/character/50223/Karen_Kujou"
+    },
+    "Kasukabe": {
+        "align": "center",
+        "file_name": "Kasukabe",
+        "file_type": "img",
+        "full_name": "You Kasukabe",
+        "package": "base",
+        "source": "http://myanimelist.net/character/69439/You_Kasukabe"
+    },
+    "Kate": {
+        "align": "center",
+        "file_name": "Kate",
+        "file_type": "img",
+        "full_name": "Kate",
+        "package": "base",
+        "source": "http://myanimelist.net/character/6823/Kate"
+    },
+    "Kirino": {
+        "align": "right",
+        "file_name": "Kirino",
+        "file_type": "img",
+        "full_name": "Kirino Kousaka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/24544/Kirino_Kousaka"
+    },
+    "Kirisame Marisa": {
+        "align": "right",
+        "file_name": "Kirisame Marisa",
+        "file_type": "img",
+        "full_name": "Kirisame Marisa",
+        "package": "base",
+        "source": "http://myanimelist.net/character/5458/Kirisame_Marisa"
+    },
+    "Konata": {
+        "align": "right",
+        "file_name": "Konata",
+        "file_type": "img",
+        "full_name": "Konata Izumi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2169/Konata_Izumi"
+    },
+    "Kurisu": {
+        "align": "center",
+        "file_name": "Kurisu",
+        "file_type": "img",
+        "full_name": "Kurisu Makise",
+        "package": "base",
+        "source": "http://myanimelist.net/character/34470/Kurisu_Makise"
+    },
+    "Kuroko": {
+        "align": "right",
+        "file_name": "Kuroko",
+        "file_type": "img",
+        "full_name": "Kuroko Shirai",
+        "package": "base",
+        "source": "http://myanimelist.net/character/17017/Kuroko_Shirai"
+    },
+    "Kyouka": {
+        "align": "right",
+        "file_name": "Kyouka",
+        "file_type": "img",
+        "full_name": "Kyouka Midarezaki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/11704/Kyouka_Midarezaki"
+    },
+    "Kyouko Sakura": {
+        "align": "center",
+        "file_name": "Kyouko Sakura",
+        "file_type": "img",
+        "full_name": "Kyouko Sakura",
+        "package": "base",
+        "source": "http://myanimelist.net/character/40006/Kyouko_Sakura"
+    },
+    "Kyouko Toshinou": {
+        "align": "center",
+        "file_name": "Kyouko Toshinou",
+        "file_type": "img",
+        "full_name": "Kyouko Toshinou",
+        "package": "base",
+        "source": "http://myanimelist.net/character/35871/Kyouko_Toshinou"
+    },
+    "Kyubey": {
+        "align": "center",
+        "file_name": "Kyubey",
+        "file_type": "img",
+        "full_name": "Kyuubey ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/38566/Kyuubey"
+    },
+    "Lain": {
+        "align": "left",
+        "file_name": "Lain",
+        "file_type": "img",
+        "full_name": "Lain Iwakura",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2219/Lain_Iwakura"
+    },
+    "Lala-Ru": {
+        "align": "center",
+        "file_name": "Lala-Ru",
+        "file_type": "img",
+        "full_name": "Lala-Ru",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1664/Lala-Ru"
+    },
+    "Lilly": {
+        "align": "center",
+        "file_name": "Lilly",
+        "file_type": "img",
+        "full_name": "Lilly Satou",
+        "package": "base",
+        "source": "http://katawashoujo.wikia.com/wiki/Lilly_Satou"
+    },
+    "Louise": {
+        "align": "center",
+        "file_name": "Louise",
+        "file_type": "img",
+        "full_name": "Louise Fran\u00e7oise Le Blanc de La Valli\u00e8re",
+        "package": "base",
+        "source": "http://myanimelist.net/character/136/Louise_Fran%C3%A7oise_Le_Blanc_de_La_Valli%C3%A8re"
+    },
+    "Lucchini": {
+        "align": "left",
+        "file_name": "Lucchini",
+        "file_type": "img",
+        "full_name": "Francesca Lucchini",
+        "package": "base",
+        "source": "http://myanimelist.net/character/7632/Francesca_Lucchini"
+    },
+    "Lucy": {
+        "align": "left",
+        "file_name": "Lucy",
+        "file_type": "img",
+        "full_name": "Lucy ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/738/Lucy"
+    },
+    "Madotsuki": {
+        "align": "center",
+        "file_name": "Madotsuki",
+        "file_type": "img",
+        "full_name": "Madotsuki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/84705/Madotsuki"
+    },
+    "Mai": {
+        "align": "right",
+        "file_name": "Mai",
+        "file_type": "img",
+        "full_name": "Mai Minakami",
+        "package": "base",
+        "source": "http://myanimelist.net/character/10421/Mai_Minakami"
+    },
+    "Maka": {
+        "align": "right",
+        "file_name": "Maka",
+        "file_type": "img",
+        "full_name": "Maka Albarn",
+        "package": "base",
+        "source": "http://myanimelist.net/character/8439/Maka_Albarn"
+    },
+    "Makimaki": {
+        "align": "center",
+        "file_name": "Makimaki",
+        "file_type": "img",
+        "full_name": "Makina Sakamaki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/42720/Makina_Sakamaki"
+    },
+    "Makoto": {
+        "align": "center",
+        "file_name": "Makoto",
+        "file_type": "img",
+        "full_name": "Makoto Kikuchi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/3987/Makoto_Kikuchi"
+    },
+    "Mami": {
+        "align": "right",
+        "file_name": "Mami",
+        "file_type": "img",
+        "full_name": "Mami Tomoe",
+        "package": "base",
+        "source": "http://myanimelist.net/character/38194/Mami_Tomoe"
+    },
+    "Mao": {
+        "align": "center",
+        "file_name": "Mao",
+        "file_type": "img",
+        "full_name": "Mao Amatsuka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/74079/Mao_Amatsuka"
+    },
+    "Mary": {
+        "align": "right",
+        "file_name": "Mary",
+        "file_type": "img",
+        "full_name": "Mary",
+        "package": "base",
+        "source": "http://ibrpg.wikia.com/wiki/Mary"
+    },
+    "Mashiro": {
+        "align": "center",
+        "file_name": "Mashiro",
+        "file_type": "img",
+        "full_name": "Mashiro Mitsumine",
+        "package": "base",
+        "source": "http://myanimelist.net/character/91971/Mashiro_Mitsumine"
+    },
+    "Mayoi": {
+        "align": "left",
+        "file_name": "Mayoi",
+        "file_type": "img",
+        "full_name": "Mayoi Hachikuji",
+        "package": "base",
+        "source": "http://myanimelist.net/character/22052/Mayoi_Hachikuji"
+    },
+    "Mayuri": {
+        "align": "center",
+        "file_name": "Mayuri",
+        "file_type": "img",
+        "full_name": "Mayuri Shiina",
+        "package": "base",
+        "source": "http://myanimelist.net/character/35253/Mayuri_Shiina"
+    },
+    "Megumi": {
+        "align": "center",
+        "file_name": "Megumi",
+        "file_type": "img",
+        "full_name": "Airi Akizuki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/30398/Airi_Akizuki"
+    },
+    "Melfina": {
+        "align": "left",
+        "file_name": "Melfina",
+        "file_type": "img",
+        "full_name": "Melfina ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1014/Melfina"
+    },
+    "Mey-Rin": {
+        "align": "left",
+        "file_name": "Mey-Rin",
+        "file_type": "img",
+        "full_name": "Mey-Rin ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/14952/Mey-Rin"
+    },
+    "Miho": {
+        "align": "center",
+        "file_name": "Miho",
+        "file_type": "img",
+        "full_name": "Miho Nishizumi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/62939/Miho_Nishizumi"
+    },
+    "Miku": {
+        "align": "right",
+        "file_name": "Miku",
+        "file_type": "img",
+        "full_name": "Miku Hatsune",
+        "package": "base",
+        "source": "http://myanimelist.net/character/7156/Miku_Hatsune"
+    },
+    "Mio": {
+        "align": "right",
+        "file_name": "Mio",
+        "file_type": "img",
+        "full_name": "Mio Akiyama",
+        "package": "base",
+        "source": "http://myanimelist.net/character/19566/Mio_Akiyama"
+    },
+    "Mio Naganohara": {
+        "align": "right",
+        "file_name": "Mio Naganohara",
+        "file_type": "img",
+        "full_name": "Mio Naganohara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/40081/Mio_Naganohara"
+    },
+    "Mirai": {
+        "align": "center",
+        "file_name": "Mirai",
+        "file_type": "img",
+        "full_name": "Mirai Kuriyama",
+        "package": "base",
+        "source": "http://myanimelist.net/character/81751/Mirai_Kuriyama"
+    },
+    "Misaka": {
+        "align": "left",
+        "file_name": "Misaka",
+        "file_type": "img",
+        "full_name": "Mikoto Misaka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/13701/"
+    },
+    "Misaki": {
+        "align": "center",
+        "file_name": "Misaki",
+        "file_type": "img",
+        "full_name": "Misaki Nakahara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2552/Misaki_Nakahara"
+    },
+    "Miu": {
+        "align": "center",
+        "file_name": "Miu",
+        "file_type": "img",
+        "full_name": "Miu Matsuoka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/570/Miu_Matsuoka"
+    },
+    "Miyako": {
+        "align": "center",
+        "file_name": "Miyako",
+        "file_type": "img",
+        "full_name": "Miyako ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2627/Miyako"
+    },
+    "Mizuki": {
+        "align": "center",
+        "file_name": "Mizuki",
+        "file_type": "img",
+        "full_name": "Mizuki Himeji",
+        "package": "base",
+        "source": "http://myanimelist.net/character/27363/Mizuki_Himeji"
+    },
+    "Momo": {
+        "align": "center",
+        "file_name": "Momo",
+        "file_type": "img",
+        "full_name": "Momo Belia Deviluke",
+        "package": "base",
+        "source": "http://myanimelist.net/character/17364/Deviluke_Momo_Velia"
+    },
+    "Monoko": {
+        "align": "left",
+        "file_name": "Monoko",
+        "file_type": "img",
+        "full_name": "Monoko",
+        "package": "base",
+        "source": "http://yumenikki.wikia.com/wiki/Monoko"
+    },
+    "Morgiana": {
+        "align": "left",
+        "file_name": "Morgiana",
+        "file_type": "img",
+        "full_name": "Morgiana ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/43121/Morgiana"
+    },
+    "Motoko": {
+        "align": "right",
+        "file_name": "Motoko",
+        "file_type": "img",
+        "full_name": "Motoko \"Major\" Kusanagi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1795/Motoko_Kusanagi"
+    },
+    "Nano": {
+        "align": "center",
+        "file_name": "Nano",
+        "file_type": "img",
+        "full_name": "Nano Shinonome",
+        "package": "base",
+        "source": "http://myanimelist.net/character/10422/Nano_Shinonome"
+    },
+    "Nee-san": {
+        "align": "center",
+        "file_name": "Nee-san",
+        "file_type": "img",
+        "full_name": "Iroe Genma",
+        "package": "base",
+        "source": "http://myanimelist.net/character/42719/Iroe_Genma"
+    },
+    "Noel": {
+        "align": "center",
+        "file_name": "Noel",
+        "file_type": "img",
+        "full_name": "No\u00ebl Kannagi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/24493/No%C3%ABl_Kannagi"
+    },
+    "Nymph": {
+        "align": "center",
+        "file_name": "Nymph",
+        "file_type": "img",
+        "full_name": "Nymph ",
+        "package": "base",
+        "source": "http://myanimelist.net/character/23496/Nymph"
+    },
+    "Onihime": {
+        "align": "center",
+        "file_name": "Onihime",
+        "file_type": "img",
+        "full_name": "Hime \"Onihime\" Onizuka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/17245/Onizuka_Hime"
+    },
+    "Osaka": {
+        "align": "center",
+        "file_name": "Osaka",
+        "file_type": "img",
+        "full_name": "Ayumu \"Osaka\" Kasuga",
+        "package": "base",
+        "source": "http://myanimelist.net/character/183/Ayumu_Kasuga"
+    },
+    "Popura": {
+        "align": "center",
+        "file_name": "Popura",
+        "file_type": "img",
+        "full_name": "Popura Taneshima",
+        "package": "base",
+        "source": "http://myanimelist.net/character/24417/Popura_Taneshima"
+    },
+    "Rei": {
+        "align": "center",
+        "file_name": "Rei",
+        "file_type": "img",
+        "full_name": "Rei Ayanami",
+        "package": "base",
+        "source": "http://myanimelist.net/character/86/Rei_Ayanami"
+    },
+    "Renge": {
+        "align": "center",
+        "file_name": "Renge",
+        "file_type": "img",
+        "full_name": "Renge Miyauchi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/54151/Renge_Miyauchi"
+    },
+    "Rika": {
+        "align": "left",
+        "file_name": "Rika",
+        "file_type": "img",
+        "full_name": "Rika Furude",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1534/Furude_Rika"
+    },
+    "Rikka": {
+        "align": "center",
+        "file_name": "Rikka",
+        "file_type": "img",
+        "full_name": "Rikka Takanashi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/65865/Rikka_Takanashi"
+    },
+    "Rin": {
+        "align": "center",
+        "file_name": "Rin",
+        "file_type": "img",
+        "full_name": "Rin Tohsaka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/498/Rin_Tohsaka"
+    },
+    "Rin Tezuka": {
+        "align": "center",
+        "file_name": "Rin Tezuka",
+        "file_type": "img",
+        "full_name": "Rin Tezuka",
+        "package": "base",
+        "source": "http://katawashoujo.wikia.com/wiki/Rin_Tezuka"
+    },
+    "Ritsu": {
+        "align": "center",
+        "file_name": "Ritsu",
+        "file_type": "img",
+        "full_name": "Ritsu Tainaka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/19567/Ritsu_Tainaka"
+    },
+    "Ruri": {
+        "align": "center",
+        "file_name": "Ruri",
+        "file_type": "img",
+        "full_name": "Ruri Gokou",
+        "package": "base",
+        "source": "http://myanimelist.net/character/31008/Ruri_Gokou"
+    },
+    "Ryuuko": {
+        "align": "right",
+        "file_name": "Ryuuko",
+        "file_type": "img",
+        "full_name": "Ryuuko Matoi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/83797/Ryuuko_Matoi"
+    },
+    "Sako": {
+        "align": "right",
+        "file_name": "Sako",
+        "file_type": "img",
+        "full_name": "SAKO RK95",
+        "package": "base",
+        "source": "http://myanimelist.net/character/62467/SAKO_RK95"
+    },
+    "Sakura": {
+        "align": "center",
+        "file_name": "Sakura",
+        "file_type": "img",
+        "full_name": "Sakura Kinomoto",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2671/Sakura_Kinomoto"
+    },
+    "Sakurako": {
+        "align": "center",
+        "file_name": "Sakurako",
+        "file_type": "img",
+        "full_name": "Sakurako Ohmuro",
+        "package": "base",
+        "source": "http://myanimelist.net/character/35878/Sakurako_Ohmuro"
+    },
+    "Sanae": {
+        "align": "left",
+        "file_name": "Sanae",
+        "file_type": "img",
+        "full_name": "Sanae Dekomori",
+        "package": "base",
+        "source": "http://myanimelist.net/character/67215/Sanae_Dekomori"
+    },
+    "Senjougahara": {
+        "align": "right",
+        "file_name": "Senjougahara",
+        "file_type": "img",
+        "full_name": "Hitagi Senjougahara",
+        "package": "base",
+        "source": "http://myanimelist.net/character/22037/Hitagi_Senjougahara"
+    },
+    "Shiina": {
+        "align": "center",
+        "file_name": "Shiina",
+        "file_type": "img",
+        "full_name": "Mashiro Shiina",
+        "package": "base",
+        "source": "http://myanimelist.net/character/61371/Shiina_Mashiro"
+    },
+    "Shinobu": {
+        "align": "center",
+        "file_name": "Shinobu",
+        "file_type": "img",
+        "full_name": "Shinobu Oshino",
+        "package": "base",
+        "source": "http://myanimelist.net/character/23602/Shinobu_Oshino"
+    },
+    "Sonya": {
+        "align": "center",
+        "file_name": "Sonya",
+        "file_type": "img",
+        "full_name": "Sonya",
+        "package": "base",
+        "source": "http://myanimelist.net/character/32769/Sonya"
+    },
+    "Stocking": {
+        "align": "center",
+        "file_name": "Stocking",
+        "file_type": "img",
+        "full_name": "Stocking Anarchy",
+        "package": "base",
+        "source": "http://myanimelist.net/character/32801/Stocking_Anarchy"
+    },
+    "Suiseiseki": {
+        "align": "left",
+        "file_name": "Suiseiseki",
+        "file_type": "img",
+        "full_name": "Suiseiseki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/1105/Suiseiseki"
+    },
+    "Taiga": {
+        "align": "center",
+        "file_name": "Taiga",
+        "file_type": "img",
+        "full_name": "Taiga Aisaka",
+        "package": "base",
+        "source": "http://myanimelist.net/character/12064/Taiga_Aisaka"
+    },
+    "Tomoko": {
+        "align": "center",
+        "file_name": "Tomoko",
+        "file_type": "img",
+        "full_name": "Tomoko Kuroki",
+        "package": "base",
+        "source": "http://myanimelist.net/character/50057/Tomoko_Kuroki"
+    },
+    "Tsumiki": {
+        "align": "center",
+        "file_name": "Tsumiki",
+        "file_type": "img",
+        "full_name": "Tsumiki Miniwa",
+        "package": "base",
+        "source": "http://myanimelist.net/character/55839/Tsumiki_Miniwa"
+    },
+    "Urotsuki": {
+        "align": "center",
+        "file_name": "Urotsuki",
+        "file_type": "img",
+        "full_name": "Urotsuki",
+        "package": "base",
+        "source": "http://yume2kki.wikia.com/wiki/Urotsuki"
+    },
+    "Winry": {
+        "align": "right",
+        "file_name": "Winry",
+        "file_type": "img",
+        "full_name": "Winry Rockbell",
+        "package": "base",
+        "source": "http://myanimelist.net/character/63/Winry_Rockbell"
+    },
+    "Yasuna": {
+        "align": "left",
+        "file_name": "Yasuna",
+        "file_type": "img",
+        "full_name": "Yasuna Oribe",
+        "package": "base",
+        "source": "http://myanimelist.net/character/33584/Yasuna_Oribe"
+    },
+    "Yin": {
+        "align": "center",
+        "file_name": "Yin",
+        "file_type": "img",
+        "full_name": "Yin",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2163/Yin"
+    },
+    "Yoko": {
+        "align": "center",
+        "file_name": "Yoko",
+        "file_type": "img",
+        "full_name": "Yoko Littner",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2063/Yoko_Littner"
+    },
+    "Yotsuba": {
+        "align": "center",
+        "file_name": "Yotsuba",
+        "file_type": "img",
+        "full_name": "Yotsuba Koiwai",
+        "package": "base",
+        "source": "http://myanimelist.net/character/3568/Yotsuba_Koiwai"
+    },
+    "Yui": {
+        "align": "center",
+        "file_name": "Yui",
+        "file_type": "img",
+        "full_name": "Yui Hirasawa",
+        "package": "base",
+        "source": "http://myanimelist.net/character/19565/Yui_Hirasawa"
+    },
+    "Yukari": {
+        "align": "center",
+        "file_name": "Yukari",
+        "file_type": "img",
+        "full_name": "Yukari Hinata",
+        "package": "base",
+        "source": "http://myanimelist.net/character/76236/Yukari_Hinata"
+    },
+    "Yuki": {
+        "align": "center",
+        "file_name": "Yuki",
+        "file_type": "img",
+        "full_name": "Yuki Nagato",
+        "package": "base",
+        "source": "http://myanimelist.net/character/249/Yuki_Nagato"
+    },
+    "Yuno": {
+        "align": "center",
+        "file_name": "Yuno",
+        "file_type": "img",
+        "full_name": "Yuno Gasai",
+        "package": "base",
+        "source": "http://myanimelist.net/character/4963/Gasai_Yuno"
+    },
+    "Yunocchi": {
+        "align": "center",
+        "file_name": "Yunocchi",
+        "file_type": "img",
+        "full_name": "Yuno",
+        "package": "base",
+        "source": "http://myanimelist.net/character/2528/Yuno"
+    },
+    "Yuuko": {
+        "align": "center",
+        "file_name": "Yuuko",
+        "file_type": "img",
+        "full_name": "Yuuko Aioi",
+        "package": "base",
+        "source": "http://myanimelist.net/character/10418/Yuuko_Aioi"
+    }
+}

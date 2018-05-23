@@ -1,0 +1,776 @@
+{
+    "base": [
+        {
+            "color": "0x000000",
+            "name": "black"
+        },
+        {
+            "color": "0x550000",
+            "name": "brick"
+        },
+        {
+            "color": "0xaa0000",
+            "name": "crimson"
+        },
+        {
+            "color": "0xff0000",
+            "name": "red"
+        },
+        {
+            "color": "0x005500",
+            "name": "turtle"
+        },
+        {
+            "color": "0x555500",
+            "name": "sludge"
+        },
+        {
+            "color": "0xaa5500",
+            "name": "brown"
+        },
+        {
+            "color": "0xff5500",
+            "name": "orange"
+        },
+        {
+            "color": "0x00aa00",
+            "name": "green"
+        },
+        {
+            "color": "0x55aa00",
+            "name": "grass"
+        },
+        {
+            "color": "0xaaaa00",
+            "name": "maize"
+        },
+        {
+            "color": "0xffaa00",
+            "name": "citrus"
+        },
+        {
+            "color": "0x00ff00",
+            "name": "lime"
+        },
+        {
+            "color": "0x55ff00",
+            "name": "leaf"
+        },
+        {
+            "color": "0xaaff00",
+            "name": "chartreuse"
+        },
+        {
+            "color": "0xffff00",
+            "name": "yellow"
+        },
+        {
+            "color": "0x000055",
+            "name": "midnight"
+        },
+        {
+            "color": "0x550055",
+            "name": "plum"
+        },
+        {
+            "color": "0xaa0055",
+            "name": "pomegranate"
+        },
+        {
+            "color": "0xff0055",
+            "name": "rose"
+        },
+        {
+            "color": "0x005555",
+            "name": "swamp"
+        },
+        {
+            "color": "0x555555",
+            "name": "dust"
+        },
+        {
+            "color": "0xaa5555",
+            "name": "dirt"
+        },
+        {
+            "color": "0xff5555",
+            "name": "blossom"
+        },
+        {
+            "color": "0x00aa55",
+            "name": "sea"
+        },
+        {
+            "color": "0x55aa55",
+            "name": "ill"
+        },
+        {
+            "color": "0xaaaa55",
+            "name": "haze"
+        },
+        {
+            "color": "0xffaa55",
+            "name": "peach"
+        },
+        {
+            "color": "0x00ff55",
+            "name": "spring"
+        },
+        {
+            "color": "0x55ff55",
+            "name": "mantis"
+        },
+        {
+            "color": "0xaaff55",
+            "name": "brilliant"
+        },
+        {
+            "color": "0xffff55",
+            "name": "canary"
+        },
+        {
+            "color": "0x0000aa",
+            "name": "navy"
+        },
+        {
+            "color": "0x5500aa",
+            "name": "grape"
+        },
+        {
+            "color": "0xaa00aa",
+            "name": "mauve"
+        },
+        {
+            "color": "0xff00aa",
+            "name": "purple"
+        },
+        {
+            "color": "0x0055aa",
+            "name": "cornflower"
+        },
+        {
+            "color": "0x5555aa",
+            "name": "deep"
+        },
+        {
+            "color": "0xaa55aa",
+            "name": "lilac"
+        },
+        {
+            "color": "0xff55aa",
+            "name": "lavender"
+        },
+        {
+            "color": "0x00aaaa",
+            "name": "aqua"
+        },
+        {
+            "color": "0x55aaaa",
+            "name": "steel"
+        },
+        {
+            "color": "0xaaaaaa",
+            "name": "grey"
+        },
+        {
+            "color": "0xffaaaa",
+            "name": "pink"
+        },
+        {
+            "color": "0x00ffaa",
+            "name": "bay"
+        },
+        {
+            "color": "0x55ffaa",
+            "name": "marina"
+        },
+        {
+            "color": "0xaaffaa",
+            "name": "tornado"
+        },
+        {
+            "color": "0xffffaa",
+            "name": "saltine"
+        },
+        {
+            "color": "0x0000ff",
+            "name": "blue"
+        },
+        {
+            "color": "0x5500ff",
+            "name": "twilight"
+        },
+        {
+            "color": "0xaa00ff",
+            "name": "orchid"
+        },
+        {
+            "color": "0xff00ff",
+            "name": "magenta"
+        },
+        {
+            "color": "0x0055ff",
+            "name": "azure"
+        },
+        {
+            "color": "0x5555ff",
+            "name": "liberty"
+        },
+        {
+            "color": "0xaa55ff",
+            "name": "royalty"
+        },
+        {
+            "color": "0xff55ff",
+            "name": "thistle"
+        },
+        {
+            "color": "0x00aaff",
+            "name": "ocean"
+        },
+        {
+            "color": "0x55aaff",
+            "name": "sky"
+        },
+        {
+            "color": "0xaaaaff",
+            "name": "periwinkle"
+        },
+        {
+            "color": "0xffaaff",
+            "name": "carnation"
+        },
+        {
+            "color": "0x00ffff",
+            "name": "cyan"
+        },
+        {
+            "color": "0x55ffff",
+            "name": "turquoise"
+        },
+        {
+            "color": "0xaaffff",
+            "name": "powder"
+        },
+        {
+            "color": "0xffffff",
+            "name": "white"
+        }
+    ],
+    "pastel": [
+        {
+            "color": "0xcd4a4a",
+            "name": "Mahogany"
+        },
+        {
+            "color": "0xfae7b5",
+            "name": "Banana Mania"
+        },
+        {
+            "color": "0x9f8170",
+            "name": "Beaver"
+        },
+        {
+            "color": "0x232323",
+            "name": "Black"
+        },
+        {
+            "color": "0xbc5d58",
+            "name": "Chestnut"
+        },
+        {
+            "color": "0xdd9475",
+            "name": "Copper"
+        },
+        {
+            "color": "0x9aceeb",
+            "name": "Cornflower"
+        },
+        {
+            "color": "0x2b6cc4",
+            "name": "Denim"
+        },
+        {
+            "color": "0xefcdb8",
+            "name": "Desert Sand"
+        },
+        {
+            "color": "0x6e5160",
+            "name": "Eggplant"
+        },
+        {
+            "color": "0x1df914",
+            "name": "Electric Lime"
+        },
+        {
+            "color": "0x71bc78",
+            "name": "Fern"
+        },
+        {
+            "color": "0xfcd975",
+            "name": "Goldenrod"
+        },
+        {
+            "color": "0xa8e4a0",
+            "name": "Granny Smith Apple"
+        },
+        {
+            "color": "0x95918c",
+            "name": "Gray"
+        },
+        {
+            "color": "0x1cac78",
+            "name": "Green"
+        },
+        {
+            "color": "0xff1dce",
+            "name": "Hot Magenta"
+        },
+        {
+            "color": "0xb2ec5d",
+            "name": "Inch Worm"
+        },
+        {
+            "color": "0x5d76cb",
+            "name": "Indigo"
+        },
+        {
+            "color": "0xfdfc74",
+            "name": "Laser Lemon"
+        },
+        {
+            "color": "0xfcb4d5",
+            "name": "Lavender"
+        },
+        {
+            "color": "0xffbd88",
+            "name": "Macaroni and Cheese"
+        },
+        {
+            "color": "0x979aaa",
+            "name": "Manatee"
+        },
+        {
+            "color": "0xff8243",
+            "name": "Mango Tango"
+        },
+        {
+            "color": "0xfdbcb4",
+            "name": "Melon"
+        },
+        {
+            "color": "0x1a4876",
+            "name": "Midnight Blue"
+        },
+        {
+            "color": "0xffa343",
+            "name": "Neon Carrot"
+        },
+        {
+            "color": "0xbab86c",
+            "name": "Olive Green"
+        },
+        {
+            "color": "0xff7538",
+            "name": "Orange"
+        },
+        {
+            "color": "0xe6a8d7",
+            "name": "Orchid"
+        },
+        {
+            "color": "0x414a4c",
+            "name": "Outer Space"
+        },
+        {
+            "color": "0xff6e4a",
+            "name": "Outrageous Orange"
+        },
+        {
+            "color": "0x1ca9c9",
+            "name": "Pacific Blue"
+        },
+        {
+            "color": "0xc5d0e6",
+            "name": "Periwinkle"
+        },
+        {
+            "color": "0x8e4585",
+            "name": "Plum"
+        },
+        {
+            "color": "0x7442c8",
+            "name": "Purple Heart"
+        },
+        {
+            "color": "0xd68a59",
+            "name": "Raw Sienna"
+        },
+        {
+            "color": "0xe3256b",
+            "name": "Razzmatazz"
+        },
+        {
+            "color": "0xee204d",
+            "name": "Red"
+        },
+        {
+            "color": "0x1fcecb",
+            "name": "Robin Egg Blue"
+        },
+        {
+            "color": "0x7851a9",
+            "name": "Royal Purple"
+        },
+        {
+            "color": "0xff9baa",
+            "name": "Salmon"
+        },
+        {
+            "color": "0xfc2847",
+            "name": "Scarlet"
+        },
+        {
+            "color": "0x9fe2bf",
+            "name": "Sea Green"
+        },
+        {
+            "color": "0xa5694f",
+            "name": "Sepia"
+        },
+        {
+            "color": "0x8a795d",
+            "name": "Shadow"
+        },
+        {
+            "color": "0x45cea2",
+            "name": "Shamrock"
+        },
+        {
+            "color": "0xfb7efd",
+            "name": "Shocking Pink"
+        },
+        {
+            "color": "0xeceabe",
+            "name": "Spring Green"
+        },
+        {
+            "color": "0xfd5e53",
+            "name": "Sunset Orange"
+        },
+        {
+            "color": "0xfaa76c",
+            "name": "Tan"
+        },
+        {
+            "color": "0xfc89ac",
+            "name": "Tickle Me Pink"
+        },
+        {
+            "color": "0xdbd7d2",
+            "name": "Timberwolf"
+        },
+        {
+            "color": "0x17806d",
+            "name": "Tropical Rain Forest"
+        },
+        {
+            "color": "0x77dde7",
+            "name": "Turquoise Blue"
+        },
+        {
+            "color": "0xffa089",
+            "name": "Vivid Tangerine"
+        },
+        {
+            "color": "0x8f509d",
+            "name": "Vivid Violet"
+        },
+        {
+            "color": "0xededed",
+            "name": "White"
+        },
+        {
+            "color": "0xff43a4",
+            "name": "Wild Strawberry"
+        },
+        {
+            "color": "0xfc6c85",
+            "name": "Wild Watermelon"
+        },
+        {
+            "color": "0xcda4de",
+            "name": "Wisteria"
+        },
+        {
+            "color": "0xfce883",
+            "name": "Yellow"
+        },
+        {
+            "color": "0xc5e384",
+            "name": "Yellow Green"
+        },
+        {
+            "color": "0xffb653",
+            "name": "Yellow Orange"
+        }
+    ],
+    "weed": [
+        {
+            "color": "0x00ff00",
+            "name": "Green"
+        },
+        {
+            "color": "0x5a6351",
+            "name": "Lizard"
+        },
+        {
+            "color": "0x636f57",
+            "name": "Cactus"
+        },
+        {
+            "color": "0x4a7023",
+            "name": "Kakapo"
+        },
+        {
+            "color": "0x3d5229",
+            "name": "Wet Moss"
+        },
+        {
+            "color": "0x659d32",
+            "name": "Tree Moss"
+        },
+        {
+            "color": "0x324f17",
+            "name": "Lime Rind"
+        },
+        {
+            "color": "0x7f8778",
+            "name": "Flight Jacket"
+        },
+        {
+            "color": "0xbced91",
+            "name": "Green Mist"
+        },
+        {
+            "color": "0x488214",
+            "name": "Holly"
+        },
+        {
+            "color": "0x577a3a",
+            "name": "Mtn Dew Bottle"
+        },
+        {
+            "color": "0x748269",
+            "name": "Seaweed Roll"
+        },
+        {
+            "color": "0x83f52c",
+            "name": "Neon Green"
+        },
+        {
+            "color": "0xc0d9af",
+            "name": "Lichen"
+        },
+        {
+            "color": "0xa6d785",
+            "name": "Guacamole"
+        },
+        {
+            "color": "0x687e5a",
+            "name": "Pond Scum"
+        },
+        {
+            "color": "0x3f602b",
+            "name": "Douglas Fir"
+        },
+        {
+            "color": "0x3f6826",
+            "name": "Royal Palm"
+        },
+        {
+            "color": "0x646f5e",
+            "name": "Seaweed"
+        },
+        {
+            "color": "0x476a34",
+            "name": "Noble Fir"
+        },
+        {
+            "color": "0x5dfc0a",
+            "name": "Green Led"
+        },
+        {
+            "color": "0x435d36",
+            "name": "Spinach"
+        },
+        {
+            "color": "0x84be6a",
+            "name": "Frog"
+        },
+        {
+            "color": "0x5b9c64",
+            "name": "Emerald"
+        },
+        {
+            "color": "0x3a6629",
+            "name": "Circuit Board"
+        },
+        {
+            "color": "0x308014",
+            "name": "Sapgreen"
+        },
+        {
+            "color": "0x31b94d",
+            "name": "Pool Table"
+        },
+        {
+            "color": "0x55ae3a",
+            "name": "Leaf"
+        },
+        {
+            "color": "0x4dbd33",
+            "name": "Grass"
+        },
+        {
+            "color": "0x596c56",
+            "name": "Snake"
+        },
+        {
+            "color": "0x86c67c",
+            "name": "100 Euro"
+        },
+        {
+            "color": "0x7bcc70",
+            "name": "Night Vision"
+        },
+        {
+            "color": "0xa020f0",
+            "name": "Purple"
+        },
+        {
+            "color": "0x9b30ff",
+            "name": "Purple"
+        },
+        {
+            "color": "0x912cee",
+            "name": "Purple"
+        },
+        {
+            "color": "0x7d26cd",
+            "name": "Purple"
+        },
+        {
+            "color": "0xaa00ff",
+            "name": "Purple"
+        },
+        {
+            "color": "0x800080",
+            "name": "Purple"
+        },
+        {
+            "color": "0xa74cab",
+            "name": "Turnip"
+        },
+        {
+            "color": "0x8f5e99",
+            "name": "Violet"
+        },
+        {
+            "color": "0x816687",
+            "name": "Eggplant"
+        },
+        {
+            "color": "0xcc00ff",
+            "name": "Grape"
+        },
+        {
+            "color": "0x820bbb",
+            "name": "Wild Violet"
+        },
+        {
+            "color": "0x660198",
+            "name": "Concord Grape"
+        },
+        {
+            "color": "0x71637d",
+            "name": "Garden Plum"
+        },
+        {
+            "color": "0xb272a6",
+            "name": "Purple Fish"
+        },
+        {
+            "color": "0x5c246e",
+            "name": "Ultramarine Violet"
+        },
+        {
+            "color": "0x5e2d79",
+            "name": "Purple Rose"
+        },
+        {
+            "color": "0x683a5e",
+            "name": "Sea Urchin"
+        },
+        {
+            "color": "0x91219e",
+            "name": "Cobalt Violet Deep"
+        },
+        {
+            "color": "0x8b668b",
+            "name": "Plum"
+        },
+        {
+            "color": "0x9932cd",
+            "name": "Dark Orchid"
+        },
+        {
+            "color": "0xbf5fff",
+            "name": "Violet Flower"
+        },
+        {
+            "color": "0xbda0cb",
+            "name": "Purple Candy"
+        },
+        {
+            "color": "0x551a8b",
+            "name": "Deep Purple"
+        },
+        {
+            "color": "0xb5509c",
+            "name": "Thistle"
+        },
+        {
+            "color": "0x871f78",
+            "name": "Dark Purple"
+        },
+        {
+            "color": "0x9c6b98",
+            "name": "Purple Ink"
+        },
+        {
+            "color": "0xdb70db",
+            "name": "Orchid"
+        },
+        {
+            "color": "0x990099",
+            "name": "True Purple"
+        },
+        {
+            "color": "0x8b008b",
+            "name": "Darkmagenta"
+        },
+        {
+            "color": "0xb62084",
+            "name": "Harold's Crayon"
+        },
+        {
+            "color": "0x694489",
+            "name": "Purple Rain"
+        },
+        {
+            "color": "0xffd700",
+            "name": "Gold"
+        }
+    ]
+}
