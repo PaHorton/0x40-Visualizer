@@ -27,7 +27,7 @@ window = pyglet.window.Window(
 def get_render(currHue,currWaifu,hues,waifus):
 	nextHue = currHue
 	nextWaifu = currWaifu
-	while(currHue == nextHue and currWaifu == nextWaifu):
+	while(currHue == nextHue or currWaifu == nextWaifu):
 		nextHue = random.choice(hues)
 		nextWaifu = waifus[random.choice(list(waifus))]
 	return(nextHue,nextWaifu)
