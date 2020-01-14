@@ -39,6 +39,7 @@ def get_color(currHue):
 def get_image_path(currWaifu):
 	return (currWaifu['package'] + "/" + currWaifu['file_type'] + "/" + currWaifu['file_name'] + ".png")
 
+def animate_transition
 @window.event
 def on_draw():
 	global currHue
@@ -51,6 +52,3 @@ def on_draw():
 	sprite.draw()
 
 pyglet.app.run()
-
-
-
